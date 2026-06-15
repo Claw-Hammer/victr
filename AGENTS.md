@@ -1,4 +1,4 @@
-# VUMC VICTR Symfony Application - Agent Guide
+# GitHub-API - Agent Guide
 
 ## Architecture
 - Symfony 7.4 app, PHP 8.1+, Docker-first development
